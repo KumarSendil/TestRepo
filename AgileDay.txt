@@ -1,0 +1,38 @@
+UX
+ -Bootstrap enabled 
+ -Themes
+ -Just in time UX
+ -mORE LOW FIDELITY MORE WHITEBOARDING  
+    -avOIDS UNNECESSARY WORK 
+	-Never fully committed design 
+	
+Automated QA
+ -Specflow (Cucumber) 
+ -Selenium
+ 
+ TDD 
+  -Define tests
+  -Define done for developer
+  - CI/CD 
+  lEADS TO BUILDING Interfaces and follwoing SOLID principles
+  lEADS TO SIMPLE, SMALL PIECES FOR CODE
+  Avoids unneccessary work 
+  
+  Interfaces - 
+  
+ 
+ 
+ 
+ (uNIT TESTS - cODING / Funcation test - Integration test )
+ 
+ KUMAR.SENDIL123
+ 
+ CasterComC201@60559
+ 
+ CasterCom@201559
+ 
+  CDN.VSASSETS.IO
+  TFS to GIT
+  
+  
+ 
